@@ -45,7 +45,9 @@
   }, i(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"), n(), r()
 }(window, document);
 
-/* 社会主体核心价值观效果 */
+/* 
+
+社会主体核心价值观效果 
 var a_idx = 0;
 jQuery(document).ready(function ($) {
   $("body").click(function (e) {
@@ -71,4 +73,6 @@ jQuery(document).ready(function ($) {
     });
   });
 });
+
+*/
 
